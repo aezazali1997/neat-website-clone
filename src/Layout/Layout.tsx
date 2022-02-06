@@ -11,5 +11,6 @@ export const Layout = () => {
       <Reviews />
       <Footer />
     </div>
+    // changes for deployemnet
   );
 };
