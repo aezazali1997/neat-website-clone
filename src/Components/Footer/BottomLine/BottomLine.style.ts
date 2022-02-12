@@ -8,6 +8,19 @@ wrapper:{
   fontSize:'0.8rem',
   opacity:0.9,
 },
+"@media screen and (max-width:768px)":{
+  wrapper:{
+    padding:".5rem",
+    flexDirection:'column',
+    textAlign:'center',
+  },
+  copyWrite:{
+    margin:'1rem 0',
+  },
+  abnLink:{
+    margin:'1rem 0',
+  }
+},
 copyWrite:{
   color:"#eee",
   fontWeight:'bold',

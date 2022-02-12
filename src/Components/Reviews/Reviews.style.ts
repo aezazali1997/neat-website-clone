@@ -8,7 +8,9 @@ container:{
 reviewContainer:{
   display:'flex',
   width:'100%',
-  justifyContent:'flex-start',
+  justifyContent:'center',
+  alignItems:'center',
+  textAlign:'center',
   transition:'all .3s ease-in-out',
   transform:'translateX(0px)',
   },
